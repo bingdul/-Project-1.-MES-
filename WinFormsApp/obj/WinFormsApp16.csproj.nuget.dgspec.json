@@ -1,0 +1,90 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Admin\\Documents\\카카오톡 받은 파일\\WinFormsApp16 (4) (2)\\WinFormsApp16 (5) (2)\\WinFormsApp16.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Admin\\Documents\\카카오톡 받은 파일\\WinFormsApp16 (4) (2)\\WinFormsApp16 (5) (2)\\WinFormsApp16.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Admin\\Documents\\카카오톡 받은 파일\\WinFormsApp16 (4) (2)\\WinFormsApp16 (5) (2)\\WinFormsApp16.csproj",
+        "projectName": "WinFormsApp16",
+        "projectPath": "C:\\Users\\Admin\\Documents\\카카오톡 받은 파일\\WinFormsApp16 (4) (2)\\WinFormsApp16 (5) (2)\\WinFormsApp16.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Admin\\Documents\\카카오톡 받은 파일\\WinFormsApp16 (4) (2)\\WinFormsApp16 (5) (2)\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "targetAlias": "net472",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "targetAlias": "net472",
+          "dependencies": {
+            "CircularProgressBar": {
+              "target": "Package",
+              "version": "[2.8.0.16, )"
+            },
+            "HZHPack": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
+            "HZH_Controls": {
+              "target": "Package",
+              "version": "[1.0.14, )"
+            },
+            "LiveCharts": {
+              "target": "Package",
+              "version": "[0.9.7, )"
+            },
+            "LiveCharts.WinForms": {
+              "target": "Package",
+              "version": "[0.9.7, )"
+            },
+            "LiveCharts.Wpf": {
+              "target": "Package",
+              "version": "[0.9.7, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "VisualBasic.PowerPacks.Vs": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
+            "fontawesome.sharp": {
+              "target": "Package",
+              "version": "[5.15.3, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.208\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win7-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

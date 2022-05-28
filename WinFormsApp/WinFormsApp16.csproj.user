@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="etc\GlassyPanel.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="etc\ToggleButton.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="etc\TransparentPanel.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Example1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\FormControl.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\FormDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\FormOrder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\FormSearch.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\FormManage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\FormSignUp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\loginForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

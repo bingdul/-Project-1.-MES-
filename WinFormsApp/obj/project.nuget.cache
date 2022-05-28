@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "rXswra983QCKWiOlDwAz3pM8KhqtUKKWL5rXsq6Tf/MRfo9M0idMGPjjxoOfF+soW21yzmPp367lDo1Cm8PDcg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Admin\\Documents\\카카오톡 받은 파일\\WinFormsApp16 (4) (2)\\WinFormsApp16 (5) (2)\\WinFormsApp16.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\circularprogressbar\\2.8.0.16\\circularprogressbar.2.8.0.16.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\fontawesome.sharp\\5.15.3\\fontawesome.sharp.5.15.3.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\hzhpack\\1.0.0\\hzhpack.1.0.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\hzh_controls\\1.0.14\\hzh_controls.1.0.14.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\livecharts\\0.9.7\\livecharts.0.9.7.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\livecharts.winforms\\0.9.7\\livecharts.winforms.0.9.7.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\livecharts.wpf\\0.9.7\\livecharts.wpf.0.9.7.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\visualbasic.powerpacks.vs\\1.0.0\\visualbasic.powerpacks.vs.1.0.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\winformanimation\\1.6.0.4\\winformanimation.1.6.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
