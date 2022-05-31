@@ -39,6 +39,22 @@
 쉽지만은 않았지만 서로 기운을 북돋아주며 개발을 진행했고 의미있는 결과물이 나와서 만족을 하였습니다.  
 보안이라는 핵심주제로 접근하긴 했지만 좀더 mes적인 부분에 중점을 두고 개발 했던거 같습니다.
 
+## 프로젝트 사진들
+
+---
+<Factory 초기 모델링>
+![KakaoTalk_20220531_201052544_06](https://user-images.githubusercontent.com/59175200/171160724-bbf256de-79c6-455d-b774-cd4b9fb7f867.jpg)
+
+<실제 최종 결과물>
+![KakaoTalk_20220531_201052544_03](https://user-images.githubusercontent.com/59175200/171160866-8bc2f7aa-a6a3-4282-8e4e-39b587483672.jpg)
+
+<수상판넬>
+![KakaoTalk_20220531_201052544](https://user-images.githubusercontent.com/59175200/171160954-c660bf8a-3eba-47f4-9675-c54727cd321e.jpg)
+
+<참가명찰>
+![KakaoTalk_20220531_201052544_01](https://user-images.githubusercontent.com/59175200/171161024-13331b03-ac61-47ad-84dc-71ea2954cbfe.jpg)
+
+
 ## PPT
 ![슬라이드1](https://user-images.githubusercontent.com/59175200/170818772-c929a3e5-c678-4194-9879-90725b893990.PNG)
 
